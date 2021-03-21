@@ -1,53 +1,53 @@
 track SNP-H
-bigDataUrl http://hgdownload.soe.ucsc.edu/goldenPath/hg19/encodeDCC/wgEncodeCaltechRnaSeq/wgEncodeCaltechRnaSeqGm12891R2x75Il200JunctionsRep1V3.bigBed
+bigDataUrl SNPhotspot.bb
 shortLabel SNP hotspot
 longLabel Density-based genetic variant hotspots and hotspot clusters
 visibility dense
 
 track SID-H
-bigDataUrl http://hgdownload.soe.ucsc.edu/goldenPath/hg19/encodeDCC/wgEncodeCaltechRnaSeq/wgEncodeCaltechRnaSeqGm12891R2x75Il200JunctionsRep1V3.bigBed
+bigDataUrl SIDhotspot.bb
 shortLabel Small indel hotspot
 longLabel Density-based genetic variant hotspots and hotspot clusters
 visibility dense
 
 track MST-H
-bigDataUrl http://hgdownload.soe.ucsc.edu/goldenPath/hg19/encodeDCC/wgEncodeCaltechRnaSeq/wgEncodeCaltechRnaSeqGm12891R2x75Il200JunctionsRep1V3.bigBed
+bigDataUrl MSThotspot.bb
 shortLabel Microsatellite hotspot
 longLabel Density-based genetic variant hotspots and hotspot clusters
 visibility dense
 
 track SCNV-H
-bigDataUrl http://hgdownload.soe.ucsc.edu/goldenPath/hg19/encodeDCC/wgEncodeCaltechRnaSeq/wgEncodeCaltechRnaSeqGm12891R2x75Il200JunctionsRep1V3.bigBed
+bigDataUrl SCNVhotspot.bb
 shortLabel Short CNV breakpoint hotspot
 longLabel Density-based genetic variant hotspots and hotspot clusters
 visibility dense
 
 track MCNV-H
-bigDataUrl http://hgdownload.soe.ucsc.edu/goldenPath/hg19/encodeDCC/wgEncodeCaltechRnaSeq/wgEncodeCaltechRnaSeqGm12891R2x75Il200JunctionsRep1V3.bigBed
+bigDataUrl MCNVhotspot.bb
 shortLabel Medium CNV breakpoint hotspot
 longLabel Density-based genetic variant hotspots and hotspot clusters
 visibility dense
 
 track LCNV-H
-bigDataUrl http://hgdownload.soe.ucsc.edu/goldenPath/hg19/encodeDCC/wgEncodeCaltechRnaSeq/wgEncodeCaltechRnaSeqGm12891R2x75Il200JunctionsRep1V3.bigBed
+bigDataUrl LCNVhotspot.bb
 shortLabel Long CNV breakpoint hotspot
 longLabel Density-based genetic variant hotspots and hotspot clusters
 visibility dense
 
 track ECNV-H
-bigDataUrl http://hgdownload.soe.ucsc.edu/goldenPath/hg19/encodeDCC/wgEncodeCaltechRnaSeq/wgEncodeCaltechRnaSeqGm12891R2x75Il200JunctionsRep1V3.bigBed
+bigDataUrl ECNVhotspot.bb
 shortLabel Extra long CNV breakpoint hotspot
 longLabel Density-based genetic variant hotspots and hotspot clusters
 visibility dense
 
 track SDP-H
-bigDataUrl http://hgdownload.soe.ucsc.edu/goldenPath/hg19/encodeDCC/wgEncodeCaltechRnaSeq/wgEncodeCaltechRnaSeqGm12891R2x75Il200JunctionsRep1V3.bigBed
+bigDataUrl SDPhotspot.bb
 shortLabel Segmental duplication breakpoint hotspot
 longLabel Density-based genetic variant hotspots and hotspot clusters
 visibility dense
 
 track HCL
-bigDataUrl http://hgdownload.soe.ucsc.edu/goldenPath/hg19/encodeDCC/wgEncodeCaltechRnaSeq/wgEncodeCaltechRnaSeqGm12891R2x75Il200JunctionsRep1V3.bigBed
+bigDataUrl HCL.bb
 shortLabel Hotspot cluster
 longLabel Density-based genetic variant hotspots and hotspot clusters
 visibility dense
