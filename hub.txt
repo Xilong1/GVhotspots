@@ -1,6 +1,6 @@
 hub GVhotspot
 shortLabel Variant hotspot
 longLabel Density-based genetic variant hotspots and hotspot clusters
-genomesFile genomes.txt
+genomesFile https://raw.githubusercontent.com/Xilong1/GVhotspots/main/genome.txt
 email xlongac@connect.ust.hk
 descriptionUrl https://www.biorxiv.org/content/10.1101/2020.10.16.342188v1
