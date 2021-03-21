@@ -1,5 +1,5 @@
 hub GVhotspot
-shortLabel Variant hotspot
+shortLabel Genetic variant hotspot
 longLabel Density-based genetic variant hotspots and hotspot clusters
 genomesFile genome.txt
 email xlongac@connect.ust.hk
