@@ -1,59 +1,11 @@
 track GVH
 bigDataUrl GVH.bb
 shortLabel Genetic variant hotspot
-longLabel Density-based genetic variant hotspots and hotspot clusters
+longLabel Density-based genetic variant hotspots
 type bigBed 4
-
-track SNP-H
-bigDataUrl SNPhotspot.bb
-shortLabel SNP hotspot
-longLabel Density-based genetic variant hotspots and hotspot clusters
-type bigBed
-
-track SID-H
-bigDataUrl SIDhotspot.bb
-shortLabel Small indel hotspot
-longLabel Density-based genetic variant hotspots and hotspot clusters
-type bigBed
-
-track MST-H
-bigDataUrl MSThotspot.bb
-shortLabel Microsatellite hotspot
-longLabel Density-based genetic variant hotspots and hotspot clusters
-type bigBed
-
-track SCNV-H
-bigDataUrl SCNVhotspot.bb
-shortLabel Short CNV breakpoint hotspot
-longLabel Density-based genetic variant hotspots and hotspot clusters
-type bigBed
-
-track MCNV-H
-bigDataUrl MCNVhotspot.bb
-shortLabel Medium CNV breakpoint hotspot
-longLabel Density-based genetic variant hotspots and hotspot clusters
-type bigBed
-
-track LCNV-H
-bigDataUrl LCNVhotspot.bb
-shortLabel Long CNV breakpoint hotspot
-longLabel Density-based genetic variant hotspots and hotspot clusters
-type bigBed
-
-track ECNV-H
-bigDataUrl ECNVhotspot.bb
-shortLabel Extra long CNV breakpoint hotspot
-longLabel Density-based genetic variant hotspots and hotspot clusters
-type bigBed
-
-track SDP-H
-bigDataUrl SDPhotspot.bb
-shortLabel Segmental duplication breakpoint hotspot
-longLabel Density-based genetic variant hotspots and hotspot clusters
-type bigBed
 
 track HCL
 bigDataUrl HCL.bb
 shortLabel Hotspot cluster
-longLabel Density-based genetic variant hotspots and hotspot clusters
+longLabel Density-based genetic variant hotspot clusters
 type bigBed
