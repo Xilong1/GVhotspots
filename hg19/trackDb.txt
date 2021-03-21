@@ -1,3 +1,9 @@
+track GVH
+bigDataUrl GVH.bb
+shortLabel Genetic variant hotspot
+longLabel Density-based genetic variant hotspots and hotspot clusters
+type bigBed 4
+
 track SNP-H
 bigDataUrl SNPhotspot.bb
 shortLabel SNP hotspot
